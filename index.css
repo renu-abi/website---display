@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.right{
+    margin-top: -110px;
+    background-color: whitesmoke;
+    padding:30px;
+    
+    
+}
+
+.hi{
+    background-color: aqua;
+}
+
+.span{
+    color: green;
+}
+
+.image{
+    width: 700px;
+}
+
+.list-items{
+    list-style: none;
+    font-size:20px;
+}
+.content{
+    font-size:20px;
+    font-family:Times New Roman;
+}
+.left{
+    
+    width:35% ;
+    height:100px;
+}
